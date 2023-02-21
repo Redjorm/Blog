@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -0.25px;
+    margin-right: -0.25px;
+}
+
+.item {
+    flex-basis: 33.33333%;
+    padding-left: 0.25px;
+    padding-right: 0.25px;
+    padding: 50px;
+}
+
+.item img{
+    width: 90%;
+}
